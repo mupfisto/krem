@@ -11,3 +11,4 @@ elif first != second != third:
 
 
 print(123)
+print()
